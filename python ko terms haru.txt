@@ -1,0 +1,13 @@
+r- read only
+w- write
+rb- read binary
+wb- write binary
+
+ audio video ko lagi rb and code Haruko lagi w
+b.
+
+x- create file. 
+
+function and method are different.
+
+class vitra define vako function is method. 
