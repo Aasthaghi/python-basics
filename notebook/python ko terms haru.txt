@@ -1,0 +1,21 @@
+r- read only
+w- write
+rb- read binary
+wb- write binary
+
+ audio video ko lagi rb and code Haruko lagi w
+b.
+
+x- create file. 
+
+function and method are different.
+
+class vitra define vako function is method. 
+
+auto_now_add : create huda(lik suru ma kaile blog lekheko ho)
+ auto_now: modify huda 
+
+ #routing  , models
+ modular programming use garera models haru banauni
+
+ shortcut key :alt ra up or down aroow garda tyo line tala mathi shift hunxa
